@@ -1,0 +1,13 @@
+﻿  ChatServer.cpp
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(41,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(41,10): message : consider using '%lld' in the format string
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(41,10): message : consider using '%Id' in the format string
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(41,10): message : consider using '%I64d' in the format string
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(45,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(81,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(93,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(98,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(128,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(140,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\ChatServer\ChatServer.cpp(145,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatServer.vcxproj -> C:\Users\ASUS\OneDrive\Máy tính\New folder (3)\BTVN-LTM-09-05\x64\Debug\ChatServer.exe
